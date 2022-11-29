@@ -1,0 +1,10 @@
+.footer {
+    position: fixed;
+    background-color: rgba(103, 239, 58, 0.85);
+    border: 1px #a9cbb8 solid;
+    height: 10vh;
+    box-shadow: 0 -30px 40px rgb(0 0 0 / 20%);
+    width: 100%;
+    max-width: inherit;
+    bottom: 0;
+}
