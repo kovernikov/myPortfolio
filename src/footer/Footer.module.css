@@ -7,4 +7,10 @@
     width: 100%;
     max-width: inherit;
     bottom: 0;
+    /*social site*/
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    flex-wrap: wrap;
 }
