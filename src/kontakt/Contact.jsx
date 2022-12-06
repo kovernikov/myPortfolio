@@ -8,7 +8,9 @@ function Contact() {
 		<div className={style.contact}>
 			{/*p*20>lorem*/}
 			<div className={style.box}>
-				<div className={style.display}>Hi my name is Alexey</div>
+				<div className={style.display}>
+					Hello, I'm Alexey
+				</div>
 			</div>
 		</div>
 	);
