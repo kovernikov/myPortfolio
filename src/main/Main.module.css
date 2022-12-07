@@ -1,0 +1,14 @@
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width-min: 100vw;
+    min-height: 30vh;
+
+
+}
+img {
+    min-width: 100px;
+    min-height: 100px;
+}
